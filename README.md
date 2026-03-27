@@ -83,7 +83,7 @@ The project uses the Superstore Sales dataset, which contains information on:
 - Sales data is highly volatile with frequent spikes  
 ## 📈 Sales Trend Over Time
 
-![Sales Trend](images/sales-trend.png)
+![Sales Trend](sales-trend.png)
 
 ---
 
