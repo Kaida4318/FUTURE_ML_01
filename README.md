@@ -67,11 +67,20 @@ The project uses the Superstore Sales dataset, which contains information on:
 - Captures non-linear relationships
 - Uses business-related features
 - Better at modeling variability
+## 🌲 Random Forest Predictions
+
+![Random Forest Predictions](Random-forest-Actual-vs-Predicted.png)
 
 ### 3. Prophet
 - Specialized for time-series forecasting
 - Captures trends and seasonality
 - Provides smooth and interpretable forecasts
+## 🔮 Prophet Forecast
+
+![Prophet Forecast](forecast.png)
+## 📊 Prophet Components (Trend & Seasonality)
+
+![Prophet Components](forecast-component.png)
 
 ---
 
