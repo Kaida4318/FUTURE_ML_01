@@ -125,8 +125,11 @@ This project demonstrates how data can be used to:
 ## 📎 Author
 
 **Muhammad Zubairu Rabi’u** 
+
 ML Intern @Future Interns
+
 B.Sc. Data Science Student  
+
 Al-Farabi Kazakh National University
 
 ---
