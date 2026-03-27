@@ -77,7 +77,7 @@ The project uses the Superstore Sales dataset, which contains information on:
 - Provides smooth and interpretable forecasts
 ## 🔮 Prophet Forecast
 
-![Prophet Forecast](forecast.png)
+![Prophet Forecast](forcast.png)
 ## 📊 Prophet Components (Trend & Seasonality)
 
 ![Prophet Components](forecast-component.png)
